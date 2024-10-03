@@ -1,0 +1,509 @@
+@media  (max-width: 575.98px) {  
+/* ----------------Common css start----------------  */
+.common_text h2 {
+	font-size: 20px;
+}
+.common_text p {
+	font-size: 14px;
+}
+/* =================Common css End================= */
+/* -----------------manu css start --------------- */
+.main_menu {
+	padding-top: 13px !important;
+	padding-bottom: 26px !important;
+}
+.main_menu img {
+	width: 120px;
+}
+button:focus:not(:focus-visible) {
+    box-shadow: -9px 5px 18px -4px rgba(28,81,255,1);
+}
+.main_menu ul {
+	margin-top: 12px;
+	gap: 24px;
+}
+/* ==================menu css End ==================*/
+/* ---------------------Banner css Start--------------------- */
+.banner {
+	padding-top: 96px;
+	padding-bottom: 101px;
+}
+.baner_text {
+	width: 298px;
+	padding: 20px;
+}
+.baner_text h2 {
+	font-size: 10px;
+}
+.baner_text h3 {
+	width: 183px;
+	font-size: 22px;
+    padding-bottom: 0;
+}
+.baner_text p {
+	width: 268px;
+	line-height: 28px;
+	font-size: 10px;
+	padding-bottom: 0px;
+}
+.baner_text a {
+	padding: 13px 30px;
+	border-radius: 12px;
+    font-size: 11px;
+}
+/* ======================Banner css End====================== */
+/* ---------------------Common css start--------------------- */
+#collect {
+	margin-top: 35px;
+	margin-bottom: 41px;
+}
+.collect_card img {
+	margin-top: 20px;
+	margin-bottom: -3px;
+}
+.collect_card img {
+	width: 100%;
+}
+/* =======================Common css End======================= */
+/* ---------------------Beautify css start--------------------- */
+#Beautify {
+	padding-top: 27px;
+	padding-bottom: 48px;
+}
+.Beautify_text h2 {
+	font-size: 20px;
+	padding-bottom: 3px;
+}
+.Beautify_text p {
+	width: 287px;
+	font-size: 14px;
+	padding-bottom: 0;
+}
+.Beautify_text a {
+	padding: 10px 19px;
+	border-radius: 12px;
+	background-color: #054C73;
+	font-size: 7px;
+	font-weight: 700;
+	font-family: var(--Montserrat);
+	color: #fff;
+	margin-bottom: 33px;
+}
+.Beautify_img {
+	padding-top: 10px;
+	width: 100%;
+}
+/* ======================Beautify css end====================== */
+/* -----------------------Range css Start----------------------- */
+.range_img img {
+	margin-top: 18px;
+	width: 100%;
+}
+.range_text {
+	padding-top: 10px;
+}
+.range_text a {
+	font-size: 16px;
+}
+/* ========================Range css end======================== */
+/* ------------------------work css start------------------------ */
+#work {
+	margin-top: 55px;
+	margin-bottom: 23px;
+}
+.work_card_img {
+	width: 100%;
+	margin-top: 9px;
+}
+.work_card_img img {
+	width: 100%;
+}
+.work_card_img span {
+	width: 50px;
+	height: 50px;
+	font-size: 22px;
+	outline: 14px solid #fff;
+}
+.work_text {
+	margin-top: 38px;
+}
+.work_text h2 {
+	font-size: 18px;
+	padding-bottom: 0px;
+}
+.work_text p {
+	width: 100%;
+	font-size: 15px;
+}
+
+/* ==========================work css end========================== */
+/* -------------------------mail css start------------------------- */
+#mail {
+	padding-top: 26px;
+	padding-bottom: 40px;
+}
+#mail .row .common_text p {
+	padding-top: 0px;
+	width: 100%;
+	line-height: 27px;
+}
+.mail_box {
+	width: 288px;
+	height: 46px;
+	border-radius: 2px;
+	margin: 23px auto 0;
+}
+.mail_box input {
+	width: 285px;
+	padding-left: 9px;
+	font-size: 11px;
+	border-radius: 2px;
+}
+.mail_box button {
+	width: 39%;
+	height: 45px;
+	font-size: 11px;
+	border-radius: 2px;
+}
+/* ==========================mail css end========================== */
+/* ------------------------Footer css start------------------------ */
+#footer {
+	padding-top: 23px;
+	padding-bottom: 45px;;
+}
+.footer_text h2 {
+	font-size: 16px;
+}
+.footer_text p {
+	width: 100%;
+	padding-top: 4px;
+	padding-bottom: 3px;
+	font-size: 12px;
+	line-height: 20px;
+}
+.instra h2 {
+	font-size: 16px;
+}
+.instra_card {
+	margin-top: 34px;
+	display: flex;
+	gap: 7px;
+	flex-wrap: wrap;
+}
+/* =========================Footer css End========================= */
+}
+@media (min-width: 576px) and (max-width:767.98px) { 
+/* ----------------Common css start----------------  */
+.common_text h2 {
+	font-size: 27px;
+}
+.common_text p {
+	font-size: 16px;
+}
+/* =================Common css End================= */
+/* -----------------manu css start --------------- */
+.main_menu {
+	padding-top: 18px !important;
+	padding-bottom: 23px !important;
+}	
+.main_menu img {
+	width: 87%;
+}	
+.main_menu ul {
+	margin-top: 10px;
+	gap: 28px;
+}
+button:focus:not(:focus-visible) {
+    box-shadow: -9px 5px 18px -4px rgba(28,81,255,1);
+}
+/* ==================menu css End ==================*/
+/* ---------------------Banner css Start--------------------- */
+.banner {
+	padding-top: 85px;
+	padding-bottom: 70px;
+}
+.baner_text {
+	width: 100%;
+	padding: 26px 19px 26px 19px;
+}
+.baner_text h2 {
+	font-size: 15px;
+	padding-bottom: 1px;
+}
+.baner_text h3 {
+	width: 88%;
+	font-size: 45px;;
+	padding-bottom: 1px;
+}
+.baner_text p {
+	width: 100%;
+	line-height: 33px;
+	font-size: 16px;
+	padding-bottom: 0px;
+}
+.baner_text a {
+	padding: 13px 29px;
+	border-radius: 15px;
+	font-size: 13px;
+
+}
+/* ======================Banner css End====================== */
+/* ---------------------Collect css start--------------------- */
+#collect {
+	margin-top: 45px;
+	margin-bottom: 45px;
+}
+.collect_card img {
+	margin-bottom: 4px;
+	margin-top: 30px;
+}
+.collect_card img {
+	width: 100%;
+}
+/* =======================Collect css End======================= */
+/* ---------------------Beautify css start--------------------- */
+#Beautify {
+	padding-top: 45px;
+	padding-bottom: 60px;
+}
+.Beautify_text h2 {
+	font-size: 25px;
+	padding-bottom: 3px;
+}
+.Beautify_text p {
+	width: 100%;
+	font-size: 16px;
+	padding-bottom: 7px;
+}
+.Beautify_text a {
+	padding: 10px 23px;
+	border-radius: 11px;
+	font-size: 14px;
+	margin-bottom: 30px;
+}
+/* ======================Beautify css end====================== */
+/* -----------------------Range css Start----------------------- */
+#Range {
+	padding-top: 40px;
+}
+.range_img img {
+	margin-top: 22px;
+	width: 100%;
+}
+.range_img a {
+	width: 100%;
+}
+.range_text {
+	padding-top: 0px;
+}
+.range_text a {
+	font-size: 20px;
+}
+/* ========================Range css end======================== */	
+/* ------------------------work css start------------------------ */
+#work {
+	margin-top: 58px;
+	margin-bottom: 43px;
+}
+.work_card_img {
+	width: 100%;
+	margin-top: 7px;
+	position: relative;
+}
+.work_card_img img {
+	width: 100%;
+}
+.work_text {
+	margin-top: 42px;
+	margin-bottom: 13px;
+}
+.work_text h2 {
+	font-size: 19px;
+	padding-bottom: 0px;
+}
+.work_text p {
+	width: 100%;
+	font-size: 16px;
+}
+/* ==========================work css end========================== */
+		
+/* -------------------------mail css start------------------------- */
+		
+/* ==========================mail css end========================== */
+		
+/* ------------------------Footer css start------------------------ */
+#footer {
+	padding-top: 40px;
+	padding-bottom: 66px;
+}
+.footer_text p {
+	width: 100%;
+	padding-top: 9px;
+	padding-bottom: 8px;
+	font-size: 16px;
+	line-height: 33px;
+}
+.instra_card {
+	margin-top: 28px;
+	row-gap: 13px;
+	flex-wrap: wrap;
+	column-gap: 7px;
+}
+/* =========================Footer css End========================= */
+}
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/* ----------------Common css start----------------  */
+		
+/* =================Common css End================= */
+		
+/* -----------------manu css start --------------- */
+button:focus:not(:focus-visible) {
+    box-shadow: -9px 5px 18px -4px rgba(28,81,255,1);
+}
+.main_menu ul {
+	gap: 28px;
+	margin-top: 20px;
+}
+/* ==================menu css End ==================*/
+/* ---------------------Banner css Start--------------------- */
+.baner_text {
+	width: 100%;
+}
+/* ======================Banner css End====================== */
+/* ---------------------Collect css start--------------------- */
+#collect {
+	margin-top: 45px;
+	margin-bottom: 45px;
+}
+.collect_card img {
+	margin-bottom: 4px;
+	margin-top: 30px;
+}
+.collect_card img {
+	width: 100%;
+}
+/* =======================Collect css End======================= */	
+/* ---------------------Beautify css start--------------------- */
+#Beautify {
+	padding-top: 60px;
+	padding-bottom: 75px;
+}
+.Beautify_text h2 {
+	font-size: 32px;
+	padding-bottom: 5px;
+}
+.Beautify_text p {
+	width: 100%;
+	font-size: 17px;
+	padding-bottom: 7px;
+}
+.Beautify_text a {
+	padding: 14px 24px;
+	border-radius: 10px;
+	font-size: 14px;
+	margin-bottom: 20px;
+}
+/* ======================Beautify css end====================== */
+/* -----------------------Range css Start----------------------- */
+#Range {
+	padding-top: 40px;
+}
+.range_img img {
+	margin-top: 30px;
+	width: 100%;
+}
+.range_img a {
+	width: 100%;
+}
+.range_text {
+	padding-top: 0px;
+}
+.range_text a {
+	font-size: 24px;
+}
+/* ========================Range css end======================== */
+/* ------------------------work css start------------------------ */
+#work {
+	margin-top: 58px;
+	margin-bottom: 43px;
+}
+.work_card_img {
+	width: 100%;
+	margin-top: 50px;
+}
+.work_card_img img {
+	width: 100%;
+}
+.work_text a {
+	display: block !important;
+}
+.work_text {
+	margin-top: 40px;
+}
+.work_text h2 {
+	font-size: 24px;
+	font-weight: 700;
+	font-family: var(--Montserrat);
+	color: #333333;
+	padding-bottom: 0px;
+}
+.work_text p {
+	width: 100%;
+}
+/* ==========================work css end========================== */
+		
+/* -------------------------mail css start------------------------- */
+		
+/* ==========================mail css end========================== */
+		
+/* ------------------------Footer css start------------------------ */
+.footer_text p {
+	width: 100%;
+	padding-top: 12px;
+	padding-bottom: 5px;
+}
+.instra_card {
+	margin-top: 30px;
+	column-gap: 10px;
+	flex-wrap: wrap;
+	row-gap: 18px;
+}
+/* =========================Footer css End========================= */
+ }
+ @media (min-width: 992px) and (max-width: 1199.98px) { 
+/* ----------------Common css start----------------  */
+		
+/* =================Common css End================= */
+		
+/* -----------------manu css start --------------- */
+		
+/* ==================menu css End ==================*/
+		
+/* ---------------------Banner css Start--------------------- */
+		
+/* ======================Banner css End====================== */
+		
+/* ---------------------Collect css start--------------------- */
+		
+/* =======================Collect css End======================= */
+		
+/* ---------------------Beautify css start--------------------- */
+		
+/* ======================Beautify css end====================== */
+
+/* -----------------------Range css Start----------------------- */
+		
+/* ========================Range css end======================== */
+		
+/* ------------------------work css start------------------------ */
+		
+/* ==========================work css end========================== */
+		
+/* -------------------------mail css start------------------------- */
+		
+/* ==========================mail css end========================== */
+		
+/* ------------------------Footer css start------------------------ */
+		
+/* =========================Footer css End========================= */
+ }
